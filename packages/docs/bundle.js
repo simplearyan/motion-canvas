@@ -1,7 +1,7 @@
 const fs = require('fs');
 const crypto = require('crypto');
 
-const AssetPath = '/modules';
+const AssetPath = '/motion-canvas/modules';
 const PublicPath = './static/modules';
 
 module.exports = () => ({

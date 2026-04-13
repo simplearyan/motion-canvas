@@ -66,7 +66,7 @@ export default function HomepageFeatures(): JSX.Element {
         <p>
           <a
             className="button button--outline button--lg"
-            href="/editor/quickstart"
+            href="/motion-canvas/editor/quickstart"
             target="_blank"
           >
             Try the Editor

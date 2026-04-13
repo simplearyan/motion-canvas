@@ -37,6 +37,11 @@ jobs:
       - name: Build Core Layer and Packages
         run: npx lerna run build
 
+      - name: Bundle Core and 2D Packages
+        run: |
+          npm run core:bundle
+          npm run 2d:bundle
+
       - name: Build Docs (Whole Site)
         run: npm run docs:build
         

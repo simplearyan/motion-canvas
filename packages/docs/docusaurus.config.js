@@ -5,8 +5,8 @@ const config = {
   title: 'Motion Canvas',
   tagline:
     'A TypeScript library for creating animated videos using the Canvas API.',
-  url: 'https://motioncanvas.io',
-  baseUrl: '/',
+  url: 'https://simplearyan.github.io',
+  baseUrl: '/motion-canvas/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.svg',
